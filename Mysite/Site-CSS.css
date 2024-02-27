@@ -1,0 +1,77 @@
+@charset "utf-8";
+	.Body
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	position : absolute ;
+	left : 0px;
+	top : 0px;
+	width : 900px;
+	height : 758px;
+}
+.Nav-BG
+{
+	background : #082E5B;
+	background : rgba(8, 46, 91, 1);
+	position : absolute ;
+	left : 50px;
+	top : 0px;
+	width : 800px;
+	height : 38px;
+}
+.BG7
+{
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.BG6
+{
+	font-family : Myriad Pro;
+	font-size : 21px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.st0
+{
+	background : #0055B8;
+	background : rgba(0, 85, 184, 1);
+	position : absolute ;
+	left : 77px;
+	top : 483px;
+	width : 768px;
+	height : 245px;
+}
+.BG5
+{
+	font-family : Myriad Pro;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.BG2
+{
+	font-family : Myriad Pro;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.BG1
+{
+	font-family : Myriad Pro;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.BG4
+{
+	font-family : Myriad Pro;
+	font-size : 9px;
+}
+.BG3
+{
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.BG
+{
+	font-family : Myriad Pro;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}

@@ -1,0 +1,124 @@
+@charset "utf-8";
+	body
+{
+	background : rgb(220, 220, 220);
+	background : rgb(193, 193, 193);
+	position : absolute ;
+	left : 0px;
+	top : 0px;
+	width : 900px;
+	height : 758px;
+}
+
+.nav-bkg
+{
+	background : #082E5B;
+	background : rgba(8, 46, 91, 1);
+	position : absolute ;
+	left : 50px;
+	top : 0px;
+	width : 800px;
+	height : 38px;
+}
+h1
+{
+	font-family : ATC Onyx;
+	font-size : 32px;
+	line-height : 22.05px;
+	color : rgba(0, 85, 184, 1);
+	color : rgba(8, 46, 91, 1);
+}
+.st0
+{
+	background : #0055B8;
+	background : rgba(0, 85, 184, 1);
+	position : absolute ;
+	left : 77px;
+	top : 483px;
+	width : 768px;
+	height : 245px;
+}
+.nav-bkg
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+p
+{
+	font-family : ATC Onyx;
+	font-size : 12px;
+	line-height : 20px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.nav-bkg
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.nav-bkg
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.nav-bkg
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.p2
+{
+	font-family : ATC Onyx;
+	font-size : 12px;
+	line-height : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.p1
+{
+	font-family : ATC Onyx;
+	font-size : 12px;
+	line-height : 20px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+
+img
+{
+	padding-left: 50px;
+	padding-top: 55px;
+}
+
+footer
+{
+	font-size: 9px;
+	background: #0055B8;
+	background : #082E5B;
+	background : rgba(8, 46, 91, 1);
+	position : absolute ;
+	left : 55px;
+	top: 820px;
+	width : 800px;
+	height : 38px;
+}
+
+footer p
+{
+	color: #FFFFFF;
+}
